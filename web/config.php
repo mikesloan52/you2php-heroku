@@ -1,6 +1,6 @@
 <?php
 define('ROOT_PART', Root_part());
-define('APIKEY', 'AIzaSyC8c8o36tM_S8GaDsNbTpiLA-kLZ8_thUc');//这里改成您的api key
+define('APIKEY', 'AIzaSyDs1GW7m1IzJ-8n682YI3Hc4DngOuBESUA');//这里改成您的api key
 define('GJ_CODE', 'KR');//国家代码
 define('SITE_NAME', 'Youtube');//网站名字
 define('TITLENAME', 'Youtube');//网站名字
